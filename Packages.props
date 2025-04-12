@@ -1,5 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <PackageVersion Include="System.ValueTuple" Version="4.6.0" />
+    <PackageVersion Include="System.ValueTuple" Version="[4.6.0]" />
   </ItemGroup>
 </Project>
